@@ -1,0 +1,4 @@
+#!/bin/sh
+
+cd meteor-oauth2-login
+meteor
