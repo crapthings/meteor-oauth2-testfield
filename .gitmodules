@@ -1,0 +1,3 @@
+[submodule "meteor-oauth2-login/packages"]
+	path = meteor-oauth2-login/packages
+	url = https://github.com/crapthings/accounts-nexushubs
